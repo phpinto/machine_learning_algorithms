@@ -8,7 +8,7 @@ List of Algorithms:
 - Hidden Markov Model (HMM)
 - K-Means
 - K-Medoids
-- Linear Regression
+- Polynomial Linear Regression
 - Matrix Factorixation based Recommender
 - PageRank
 - Random Forest
